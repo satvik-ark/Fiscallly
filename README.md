@@ -3,7 +3,8 @@ Fiscally is an AI-powered personal finance webapp that also bridges startup foun
 <br>
 <h3>Roadmap to build it</h3>
 <h4>Step 1 - Backend</h4>
-The backend will be done first to build the MVP asap by using <h6>Python and FastAPI</h6>.
+The backend will be done first to build the MVP asap by using-<br>
+FastAPI and Python<br>
 
 
 <h4>Step 2 - Frontend</h4>
